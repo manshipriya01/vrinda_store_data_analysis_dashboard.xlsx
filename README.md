@@ -33,8 +33,6 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
  - The store maintains an excellent **delivery rate of 92%**, indicating strong logistics performance.
  - A **noticeable decline** in order volume after March suggests scope for marketing push in later months.
  - **March shows peak activity**, followed by a steady decline till December.
- ## Dashboard Preview
- <img width="1866" height="884" alt="dashboard" src="https://github.com/user-attachments/assets/4ab4d2dd-fee7-4c82-82a0-908a5e02b68d" />
  ## How to Use
  1. Open the Excel dashboard file <a href="https://github.com/manshipriya01/vrinda_store_data_analysis_dashboard.xlsx/blob/main/dashboard.png">View Dashboard</a>
  2. Use the slicers on the left to filter by:
