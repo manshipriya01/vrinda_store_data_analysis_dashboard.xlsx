@@ -43,32 +43,20 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
 ## Dashboard Preview
 <img width="1866" height="884" alt="dashboard" src="https://github.com/user-attachments/assets/4ab4d2dd-fee7-4c82-82a0-908a5e02b68d" />
 ## Areas of Improvement
- -The declining trend in sales and orders post-March suggests a need for consistent marketing campaigns or festive-season promotions to maintain momentum.
- -Explore strategies to engage more male and senior shoppers, potentially with targeted product offerings or discounts.
+ - The declining trend in sales and orders post-March suggests a need for consistent marketing campaigns or festive-season promotions to maintain momentum.
+ - Explore strategies to engage more male and senior shoppers, potentially with targeted product offerings or discounts.
 ## Strategic Actions
--Focus marketing on women and adult customers in Maharashtra and Karnataka.
--Leverage Amazon with exclusive deals or banner promotions.
--Analyze March campaigns to replicate success throughout the year.
--Introduce loyalty programs to improve repeat purchase rate, especially in the declining months.
+- Focus marketing on women and adult customers in Maharashtra and Karnataka.
+- Leverage Amazon with exclusive deals or banner promotions.
+- Analyze March campaigns to replicate success throughout the year.
+- Introduce loyalty programs to improve repeat purchase rate, especially in the declining months.
 ## About Me
 I'm a budding data analyst passionate transforming data into meaningful insights using tools like Excel, SQL, and Power BI. I specialize in building interactive dashboards that support decision-making.
 ## Contact
--Manshi Priya
--For queries or collaborations: [your.email@example.com](mailto:your.email@example.com)
--Connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
- Strategic Recommendations
-
-Focus marketing on female demographics, especially adult and teenage segments.
-
-Promote seasonal campaigns in March to replicate peak performance.
-
-Strengthen partnerships with Amazon, Flipkart, and Myntra.
-
-Increase outreach in Maharashtra, Karnataka, and Uttar Pradesh.
-
-Explore promotions on Meesho, Nalli, and Ajio to expand customer base.
-
-Maintain high delivery success and reduce returns with better logistics.
+- Manshi Priya
+- For queries or collaborations: [your.email@example.com](mailto:your.email@example.com)
+- Connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+ 
  
 
 
