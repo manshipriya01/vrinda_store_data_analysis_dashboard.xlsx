@@ -41,6 +41,8 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
    - Sales Channel
  3. Charts and visuals will update dynamically based on selected filters.
 ## Dashboard Preview
+<img width="1866" height="884" alt="dashboard" src="https://github.com/user-attachments/assets/4ab4d2dd-fee7-4c82-82a0-908a5e02b68d" />
+
 
 
  
