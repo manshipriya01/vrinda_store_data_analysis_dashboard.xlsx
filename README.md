@@ -34,7 +34,7 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
  - A **noticeable decline** in order volume after March suggests scope for marketing push in later months.
  - **March shows peak activity**, followed by a steady decline till December.
  ## How to Use
- 1. Open the Excel dashboard file (
+ 1. Open the Excel dashboard file 
  2. Use the slicers on the left to filter by:
    - Product Category
    - Month
