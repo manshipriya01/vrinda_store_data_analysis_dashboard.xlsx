@@ -18,7 +18,7 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
   - Pivot Tables
   - Slicers & Interactive Filters
   - Pivot Charts & Custom Formatting
-  ## Key Features
+ ## Key Features
   - **Orders vs Sales (Monthly View):** Bar and line chart showing total sales and order counts over months.
   - **Sales by Gender:** Pie chart visualizing the contribution of male vs. female customers.
   - **Order Status Breakdown:** Pie chart highlighting percentages of delivered, returned, refunded, and cancelled orders.
@@ -26,4 +26,21 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
   - **Orders by Age & Gender:** Comparative column chart showing distribution across Adult, Senior, and Teenagers.
   - **Sales Channel Split:** Donut chart illustrating order distribution across Amazon, Flipkart, Myntra, etc.
   - **Interactive Filters:** Use slicers for Category, Month, and Channel to dynamically explore data.
+ ## Insights & Key Takeaways
+ - Women drive **64% of total sales**, especially adult and teenage segments.
+ - **Amazon leads** all sales channels with 35% of total orders, followed by Myntra and Flipkart.
+ - **Maharashtra and Karnataka** are the top-performing states with the highest sales.
+ - The store maintains an excellent **delivery rate of 92%**, indicating strong logistics performance.
+ - A **noticeable decline** in order volume after March suggests scope for marketing push in later months.
+ - **March shows peak activity**, followed by a steady decline till December.
+ ## How to Use
+ 1. Open the Excel dashboard file (`Vrinda_Store_Annual_Analysis_2022.xlsx`).
+ 2. Use the slicers on the left to filter by:
+   - Product Category
+   - Month
+   - Sales Channel
+ 3. Charts and visuals will update dynamically based on selected filters.
+
+ 
+
 
