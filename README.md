@@ -10,3 +10,20 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
 - Understand performance across multiple online sales channels.
 ## Dataset Used
 - <a href="https://github.com/manshipriya01/vrinda_store_data_analysis_dashboard.xlsx/blob/main/vrinda_store_data%20_analysis.xlsx">Dataset</a>
+## Tools & Technologies
+- **Microsoft Excel**
+  - Cleaning & Analyzing
+  - Created a column of Age Group with the help of Nested IF
+  - Extract Month with the help of Text Function from Date column
+  - Pivot Tables
+  - Slicers & Interactive Filters
+  - Pivot Charts & Custom Formatting
+  ## Key Features
+  - **Orders vs Sales (Monthly View):** Bar and line chart showing total sales and order counts over months.
+  - **Sales by Gender:** Pie chart visualizing the contribution of male vs. female customers.
+  - **Order Status Breakdown:** Pie chart highlighting percentages of delivered, returned, refunded, and cancelled orders.
+  - **Top 5 States:** Horizontal bar chart showing states with highest sales.
+  - **Orders by Age & Gender:** Comparative column chart showing distribution across Adult, Senior, and Teenagers.
+  - **Sales Channel Split:** Donut chart illustrating order distribution across Amazon, Flipkart, Myntra, etc.
+  - **Interactive Filters:** Use slicers for Category, Month, and Channel to dynamically explore data.
+
