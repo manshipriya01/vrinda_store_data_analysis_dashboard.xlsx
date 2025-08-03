@@ -34,7 +34,8 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
  - A **noticeable decline** in order volume after March suggests scope for marketing push in later months.
  - **March shows peak activity**, followed by a steady decline till December.
  ## How to Use
- 1. Open the Excel dashboard file (`Vrinda_Store_Annual_Analysis_2022.xlsx`).
+ 1. Open the Excel dashboard file (<img width="1866" height="884" alt="dashboard" src="https://github.com/user-attachments/assets/3d42096d-ffe0-45fc-9b2b-bae4cf39aa12" />
+`).
  2. Use the slicers on the left to filter by:
    - Product Category
    - Month
@@ -52,10 +53,7 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
 - Introduce loyalty programs to improve repeat purchase rate, especially in the declining months.
 ## About Me
 I'm a budding data analyst passionate transforming data into meaningful insights using tools like Excel, SQL, and Power BI. I specialize in building interactive dashboards that support decision-making.
-## Contact
-- Manshi Priya
-- For queries or collaborations: [your.email@example.com](mailto:your.email@example.com)
-- Connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+
  
  
 
