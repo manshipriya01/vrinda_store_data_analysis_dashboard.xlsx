@@ -8,3 +8,5 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
 - Analyze order status (Delivered, Cancelled, Returned, Refunded).
 - Identify top-performing states by revenue.
 - Understand performance across multiple online sales channels.
+## Dataset Used
+- <a href="https://github.com/manshipriya01/vrinda_store_data_analysis_dashboard.xlsx/blob/main/vrinda_store_data%20_analysis.xlsx">Dataset</a>
