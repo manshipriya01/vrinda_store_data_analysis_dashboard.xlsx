@@ -50,8 +50,7 @@ This dashboard presents a comprehensive analysis of Vrinda Store’s annual sale
 - Introduce loyality programs to improve repeat purchase rate, especially in the declining months.
 ## Dashboard Preview
 <img width="1866" height="884" alt="dashboard" src="https://github.com/user-attachments/assets/4ab4d2dd-fee7-4c82-82a0-908a5e02b68d" />
-## About Me
-I'm a budding data analyst passionate transforming data into meaningful insights using tools like Excel, SQL, and Power BI. I specialize in building interactive dashboards that support decision-making.
+
 
  
  
