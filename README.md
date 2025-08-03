@@ -56,6 +56,19 @@ I'm a budding data analyst passionate transforming data into meaningful insights
 -Manshi Priya
 -For queries or collaborations: [your.email@example.com](mailto:your.email@example.com)
 -Connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+ Strategic Recommendations
+
+Focus marketing on female demographics, especially adult and teenage segments.
+
+Promote seasonal campaigns in March to replicate peak performance.
+
+Strengthen partnerships with Amazon, Flipkart, and Myntra.
+
+Increase outreach in Maharashtra, Karnataka, and Uttar Pradesh.
+
+Explore promotions on Meesho, Nalli, and Ajio to expand customer base.
+
+Maintain high delivery success and reduce returns with better logistics.
  
 
 
